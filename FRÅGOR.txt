@@ -1,0 +1,3 @@
+Ska en lokal variabel presenteras i början av koden (om den defineras i början defineras ju istället en global variabel)?
+
+Kan skapandet av brädena ligga innan funktionerna?

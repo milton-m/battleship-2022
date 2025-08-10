@@ -1,0 +1,14 @@
+ritabräde
+ta_emot_skott
+placera_båt
+
+Undvik två blankrader
+Koden på en rad ska ej vara länger än 79 tecken
+Kommentarer och docstring ej längre än 72 tecken
+ordning: importer, konstanter, funktioner
+lowercase_with_underscores
+
+Ha eventullt en omvandla spelare-koordinater till dator-koordinater funktion (med tanke på att den detta förekommer två gånger)
+
+TA BORT WHILE TRUE!!!
+
